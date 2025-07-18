@@ -1,9 +1,9 @@
 Anggota Kelompok:
-1. Tegar Muhammad Izzudin    06.2023.1.07712
-2. Hamid Mahmudin            06.2023.1.07736
-3. Muhammad Akhdanul kirom   06.2023.1.07706
-4. Raka Tegar Pamungkas      06.2023.1.07744
-5. Candra Purnawirawan       06.2023.1.07719
+1. Tegar Muhammad Izzudin -    06.2023.1.07712
+2. Hamid Mahmudin -            06.2023.1.07736
+3. Muhammad Akhdanul kirom -   06.2023.1.07706
+4. Raka Tegar Pamungkas -      06.2023.1.07744
+5. Candra Purnawirawan -       06.2023.1.07719
 
 
 
