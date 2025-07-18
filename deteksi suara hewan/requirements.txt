@@ -1,0 +1,11 @@
+tkinter
+Pillow
+pygame
+librosa
+numpy
+pandas
+scikit-learn
+sounddevice
+soundfile
+ttkbootstrap
+joblib
