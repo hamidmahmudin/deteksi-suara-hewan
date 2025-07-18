@@ -41,5 +41,7 @@ dependencies:
       - ttkbootstrap
 
 Instalasi dari file:
+
 conda env create -f environment.yml
+
 conda activate deteksi_suara
