@@ -1,3 +1,13 @@
+Anggota Kelompok:
+1. Tegar Muhammad Izzudin    06.2023.1.07712
+2. Hamid Mahmudin            06.2023.1.07736
+3. Muhammad Akhdanul kirom   06.2023.1.07706
+4. Raka Tegar Pamungkas      06.2023.1.07744
+5. Candra Purnawirawan       06.2023.1.07719
+
+
+
+
 Library yang digunakan 
 
 1. Phyton Versi 3.10 (digunakan untuk : bahasa utama proyek)
@@ -22,9 +32,11 @@ Langkah-langkah instalasi Anaconda
    conda install scikit-learn librosa soundfile pillow joblib
 4. Install library tambahan via pip dengan perintah:
    pip install pygame sounddevice ttkbootstrap
+
 Jika Anda ingin membagikan environment ini ke dosen atau rekan, bisa buat file environment.yml berikut:
 name: deteksi_suara
 channels:
+
   - defaults
   - conda-forge
 dependencies:
